@@ -1,1 +1,1 @@
-log("conflicts resolved")
+log("code in dummy")
