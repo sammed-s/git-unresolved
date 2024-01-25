@@ -1,1 +1,1 @@
-console.log("code in main js");
+console.log("code in main js and want to merge to dummy");
